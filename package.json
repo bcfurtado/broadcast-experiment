@@ -1,0 +1,24 @@
+{
+  "name": "socketioexperiment",
+  "version": "1.0.0",
+  "description": "playing arround with socket.io library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bcfurtado/socketioexperiment"
+  },
+  "author": "Bruno Furtado",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcfurtado/socketioexperiment/issues"
+  },
+  "homepage": "https://github.com/bcfurtado/socketioexperiment",
+  "dependencies": {
+    "express": "^4.10.1",
+    "socket.io": "^1.2.0"
+  }
+}

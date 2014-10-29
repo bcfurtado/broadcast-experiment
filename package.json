@@ -1,5 +1,5 @@
 {
-  "name": "socketioexperiment",
+  "name": "broadcast-experiment",
   "version": "1.0.0",
   "description": "playing arround with socket.io library.",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bcfurtado/socketioexperiment"
+    "url": "http://github.com/bcfurtado/broadcast-experiment"
   },
   "author": "Bruno Furtado",
   "private": true,
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bcfurtado/socketioexperiment/issues"
+    "url": "https://github.com/bcfurtado/broadcast-experiment/issues"
   },
-  "homepage": "https://github.com/bcfurtado/socketioexperiment",
+  "homepage": "https://github.com/bcfurtado/broadcast-experiment",
   "dependencies": {
     "express": "^4.10.1",
     "socket.io": "^1.2.0"
